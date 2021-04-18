@@ -1,3 +1,7 @@
+### Notes
+This branch https://github.com/josh-jacobsen/nginx-certbot/tree/fix-the-things has the code that will get the certs in production, but throws a 500 when navigating to https://test.circle8.eco (though the content is served over https)
+
+
 # Boilerplate for nginx with Let’s Encrypt on docker-compose
 
 > This repository is accompanied by a [step-by-step guide on how to

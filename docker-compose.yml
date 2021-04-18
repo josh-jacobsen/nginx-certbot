@@ -22,8 +22,6 @@ services:
 
   circle8:
     image: joshjacobsen/circle8:latest
-    networks:
-      - dockerapi-dev
     # depends_on:
     #   - "postgres_image"
     # build:
